@@ -1,6 +1,6 @@
 # NeetCode Solutions — @mike-segana
 
-This repository contains my solutions to problems completed on **NeetCode.io** as part of my ongoing data structures and algorithms practice and interview preparation.
+This repository contains my solutions to problems completed on **NeetCode.io** as part of my ongoing data structures and algorithms practice.
 
 The repository is automatically synchronised with NeetCode, so each accepted solution is committed to GitHub as I complete it. It serves as a record of my progress and documents my approach to solving algorithmic problems across a range of topics.
 
